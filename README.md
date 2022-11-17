@@ -1,6 +1,6 @@
 # ProcessASequenceOfNums
 RESTfull API service для обработки последовательности чисел.
-
+(Проект сырой)
 # REST-запросы и ответы:
 # http://localhost:8080/max_value - 2147483647
 # http://localhost:8080/max_value -2147483648
